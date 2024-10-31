@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: question_answer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-29 19:32+0100\n"
+"PO-Revision-Date: 2008-02-29 19:34+0100\n"
+"Last-Translator: Dennis Suchomsky <dennis@webschreinerei.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:5
+msgid "New question added"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:12
+msgid "Question updated"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:19
+msgid "Question deleted"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:26
+msgid "New answer added"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:32
+msgid "Answer deleted"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:38
+msgid "Answer updated"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:48
+msgid "Question answer options"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:51
+msgid "Add Question"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:52
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:66
+msgid "Title"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:53
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:67
+msgid "Content"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:57
+msgid "Questions"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:72
+msgid "Add answer"
+msgstr ""
+
+#: /Users/sushi/work/php/datenrettung/wp-content/plugins/question_answer/question_answer_admin.inc.php:89
+msgid "Leads to"
+msgstr ""
+
